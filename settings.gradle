@@ -1,0 +1,3 @@
+rootProject.name='CoolCarousel'
+include ':app'
+include ':app:coolcarousel'
